@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "cardpool", "..\..\WebSites\cardpool\", "{B938752C-BC72-4400-8D5B-FE4EAC74FEAF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{FF9F1D86-DC6F-466A-8408-044A55F14661}|BO.dll;{A29ED435-D21C-4B11-BEB2-4B9BB314C251}|BUS.dll;{E18838B2-9E9E-4584-868F-6AD976AD4C3E}|DAO.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/cardpool"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\cardpool\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\cardpool\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/cardpool"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\cardpool\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\cardpool\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1212"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "BO\BO.csproj", "{FF9F1D86-DC6F-466A-8408-044A55F14661}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{E18838B2-9E9E-4584-868F-6AD976AD4C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{A29ED435-D21C-4B11-BEB2-4B9BB314C251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B938752C-BC72-4400-8D5B-FE4EAC74FEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B938752C-BC72-4400-8D5B-FE4EAC74FEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B938752C-BC72-4400-8D5B-FE4EAC74FEAF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B938752C-BC72-4400-8D5B-FE4EAC74FEAF}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{FF9F1D86-DC6F-466A-8408-044A55F14661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9F1D86-DC6F-466A-8408-044A55F14661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9F1D86-DC6F-466A-8408-044A55F14661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9F1D86-DC6F-466A-8408-044A55F14661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E18838B2-9E9E-4584-868F-6AD976AD4C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18838B2-9E9E-4584-868F-6AD976AD4C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18838B2-9E9E-4584-868F-6AD976AD4C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18838B2-9E9E-4584-868F-6AD976AD4C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29ED435-D21C-4B11-BEB2-4B9BB314C251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29ED435-D21C-4B11-BEB2-4B9BB314C251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29ED435-D21C-4B11-BEB2-4B9BB314C251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29ED435-D21C-4B11-BEB2-4B9BB314C251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

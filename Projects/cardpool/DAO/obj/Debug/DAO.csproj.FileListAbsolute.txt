@@ -1,0 +1,7 @@
+C:\Documents and Settings\VanVan\My Documents\Visual Studio 2010\Projects\cardpool\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VanVan\My Documents\Visual Studio 2010\Projects\cardpool\DAO\bin\Debug\DAO.dll
+C:\Documents and Settings\VanVan\My Documents\Visual Studio 2010\Projects\cardpool\DAO\bin\Debug\DAO.pdb
+C:\Documents and Settings\VanVan\My Documents\Visual Studio 2010\Projects\cardpool\DAO\obj\Debug\DAO.dll
+C:\Documents and Settings\VanVan\My Documents\Visual Studio 2010\Projects\cardpool\DAO\obj\Debug\DAO.pdb
+C:\Documents and Settings\VanVan\My Documents\Visual Studio 2010\Projects\cardpool\DAO\bin\Debug\BO.dll
+C:\Documents and Settings\VanVan\My Documents\Visual Studio 2010\Projects\cardpool\DAO\bin\Debug\BO.pdb
